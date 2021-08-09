@@ -1,0 +1,128 @@
+
+  .backGImg{
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      position: relative;
+
+  }
+
+  .backgroundFit{
+      width: 100%;
+      height: 100vh;
+      /* border: 2px solid black; */
+      position: relative;
+  }
+
+  .RsLogo{
+      /* position: absolute; */
+      /* left: 141px; */
+      /* top: 41px; */
+      height: 2.5em;
+      margin-left: 2em;
+  }
+  
+   #navHead{
+      position: absolute;
+      top: 1em;
+      left: 50px;
+      top: 20px;
+      background: transparent;
+  }
+  .GetBtn{
+    width: 125px;
+    height: 48px;
+    margin: 2px 20px 16px 300px;
+    padding: 15px 22px 13px;
+    border-radius: 6px;
+    border: solid 1px #ffcecc;
+    background-color: #ffffff;
+
+  } 
+
+  .Get-in-Touch {
+    width: 116px;
+    height: 20px;
+    font-family: Averta-☞;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #f70000;
+  } 
+   .home{
+    /* width: 55px; */
+    /* height: 20px; */
+    
+    margin: 0 5px 5px;
+    font-family: Averta-☞;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #f70000;
+  } 
+
+  .navCont{
+      margin-left: 250px;
+      
+  }
+
+  .liveChat{
+    width: 12em;
+    height: 3.5em;
+    /* margin: 181px 1px 0 231px; */
+    /* padding: 22.2px 32.5px 22.2px; */
+    border-radius: 40px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffe7e6;
+    position: fixed;
+    /* position: sticky; */
+    left: 69em;
+    bottom: 0.8em;
+    /* position: absolute; */
+    border: 2px solid black;
+  }
+  .liveChatImg{
+    width: 40.5px;
+    height: 35.6px;
+    
+     margin: 7px 17.5px 0px 13px;
+
+    object-fit: contain;
+    /* background-color: #535353; */
+  }
+
+  .company{
+    border: 2px solid black;
+    height: 8em;
+    width: 80%;
+    /* position: relative; */
+    margin-left: 10%;
+    /* width: 1636px; */
+    /* height: 253px; */
+    /* margin: 44px 142px 90px; */
+    /* padding: 51.1px 113px 51.1px 119px; */
+    border-radius: 16px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.09);
+    background-color: #ffe7e6;
+  }
+    .google {
+      width: 117.6px;
+      height: 39.2px;
+      margin: 0.2px 81.5px 65.2px 81.5px;
+      /* background-color: #4a4a4a; */
+    }
+
+    .videotv{
+      border-radius: 16px;
+      box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.09);
+      /* background-color: #ffe7e6 */
+    }
+  
